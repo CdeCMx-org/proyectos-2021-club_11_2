@@ -358,7 +358,7 @@ Las bases para los estudios sobre la integrasa del VIH se establecieron con estu
 </figure>
 
 <figure>
-  <img class="center" src="Imagenes/PEP Y PrEP.png" style="width:50%">
+  <img class="center" src="Imagenes/PEP Y PrEP.png" style="width:80%">
 </figure>
 
 ## BIBLIOGRAFÍA
