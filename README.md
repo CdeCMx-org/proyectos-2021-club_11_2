@@ -5,24 +5,25 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vMDGAlY9ObU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
 ### INTRODUCCIÓN
 
-I. VIH
+***I. VIH***
 
 El VIH es un virus que ataca al sistema inmunitario del cuerpo, su etapa más avanzada es el SIDA (síndrome de inmunodeficiencia adquirida). Cuando una persona se infecta con VIH, el virus ataca y debilita el sistema inmunitario. A medida que el sistema inmunitario se debilita, la persona está en riesgo de contraer infecciones y cánceres que pueden ser mortales.  Cuando esto sucede, la enfermedad se llama sida. Una vez que una persona tiene el virus, este permanece dentro del cuerpo de por vida.
 
-VIH: Daña al sistema inmunitario al destruir las células CD4. 
+**VIH:** Daña al sistema inmunitario al destruir las células CD4. 
 
-SIDA: Es la última etapa de infección por el VIH. Al convertirse en SIDA, disminuye la cantidad de células de CD4 y existe mayor concentración del virus VIH.
+**SIDA:** Es la última etapa de infección por el VIH. Al convertirse en SIDA, disminuye la cantidad de células de CD4 y existe mayor concentración del virus VIH.
 
-CÉLULA CD4:
+**CÉLULA CD4:**
 
 •	Forma parte del sistema inmunitario.
 
 •	Al disminuir las células de CD4 en el organismo el virus inserta su material genético en el genoma de las células y lo manipula para que las células CD4 se modifiquen y se dediquen a hacer más copias del VIH.
 
-TRANSMISIÓN 
+**TRANSMISIÓN**
 
 ➢ Contacto sexual: a través de relaciones sexuales sin protección con una persona que vive con el virus.
 
@@ -34,7 +35,7 @@ TRANSMISIÓN
 
 ➢ Uso compartido de jeringas por usuarios de drogas intravenosas 
 
-DIAGNÓSTICO 
+**DIAGNÓSTICO** 
 
 Aunque existen diferentes síntomas que aparecen en una infección temprana de VIH, la única manera de diagnosticarlo es mediante una prueba de anticuerpos y posteriormente, una prueba Wester Blot o ELISA para la confirmación del diagnóstico. Los síntomas como fiebre, debilidad y adelgazamiento pueden ser una señal de que el VIH de una persona ha avanzado a SIDA. Sin embargo, un diagnóstico de SIDA se basa en lo siguiente:
 
@@ -42,7 +43,7 @@ Aunque existen diferentes síntomas que aparecen en una infección temprana de V
 
 2.	La presencia de ciertas infecciones oportunistas. Aunque un diagnóstico de SIDA indica un daño grave en el sistema inmunitario, los medicamentos contra el VIH aún pueden ayudar a las personas en esta etapa de la infección por el VIH. 
 
-PREVENCIÓN 
+**PREVENCIÓN**
 
 ➢ Uso de condón.
 
@@ -54,7 +55,7 @@ PREVENCIÓN
 
 ➢ Si se es una persona seropostiva, es indispensable que se inicie o mantenga con el tratamiento para que la carga viral del paciente sea <50 copias/ul y así ser considerado como indetectable.
 
-II. La Enzima Integrasa
+***II. La Enzima Integrasa***
 
 La pandemia del VIH / SIDA sigue siendo un problema importante en todo el mundo. El proceso de integración viral, que es la inserción de ADN viral en el ADN genómico del huésped, es un paso indispensable del ciclo de vida retroviral y está catalizado por la enzima viral integrasa (IN). La integración se logra mediante dos actividades catalíticas secuenciales distintas, procesamiento y transferencia de la hebra 3´.
 
@@ -62,7 +63,7 @@ La IN entonces cataliza procesa el ADN viral mediante la escisión de un dinucle
 
 La IN del VIH-1 es una proteína de 32 kDa que funciona como tetrámero o multímero. Un monómero consta de tres dominios distintos; el dominio N-terminal (NTD) que comprende los residuos 1-46, el dominio del núcleo catalítico (CCD) que comprende los residuos 56-186 dentro del cual se encuentra el sitio activo (aspartato (D64), aspartato (D116) y glutamato (E152)), y el dominio C-terminal (CTD) que comprende los residuos 195-288.
 
-III. Los inhibidores de la Integrasa
+***III. Los inhibidores de la Integrasa***
 
 Se han desarrollado varios inhibidores de la transferencia de la cadena de integrasa (INSTI) para atacar la IN del VIH-1 para prevenir la integración viral en el genoma del huésped. Los cuatro INSTI disponibles hasta el momento incluyen raltegravir (RAL) y elvitegravir (EVG) que se consideran inhibidores de primera generación; mientras que dolutegravir (DTG) y bictegravir (BIC), junto con el cabotegravir clínicamente probado (CBT) de fase tardía, son clasificados como INSTI de segunda generación. 
 
@@ -70,7 +71,7 @@ En la actualidad, uno de los medicamentos más usados en México y el mundo es �
 
 El VIH-1 es un virus genéticamente diverso, que forma diferentes subtipos, variantes recombinantes y específicas de la región, es decir, tiene una alta capacidad de mutar, adaptarse a nuevas condiciones biológicas y presentar resistencia a medicamentos antirretrovirales; es por eso que, hasta la fecha, no se ha podido acabar con la pandemia del VIH/SIDA. 
 
-IV. El desarrollo de fármacos
+***IV. El desarrollo de fármacos***
 
 El desarrollo de los INSTI, como con la mayoría de los agentes farmacéuticos, es realizado principalmente por empresas de países del Primer Mundo y el proceso de candidatura, descubrimiento, pruebas pre-clínicas, clínicas y aprobación puede tomar en promedio unos 15 años y costar hasta 500 millones de dólares; es de esta forma que, eventualmente un fármaco llegará al mercado muchos años después.
 
@@ -80,9 +81,17 @@ En la actualidad, el uso de la quimioinformática, química medicinal y modelado
 
 En este estudio, se utilizaron diferentes métodos computacionales para la realización de un análisis comparativo de los INSTI y su interacción con la proteína IN. Primero, se realizó un análisis quimioinfrmático de las propiedades fisicoquímicas de los INSTI y la predicción de sus propiedades farmacocinéticas ADMET (administración, distribución, metabolismo, eliminación y toxicidad) para una evaluación previa del uso de estos fármacos en el cuerpo humano; este análisis se llevó a cabo mediante los softwares especializados Chemicailize (ChemAxon), OSIRIS y SwissADME. Después, se realizó un análisis conformacional y energético de los fármacos para le evaluación del acoplamiento molecular y de las interacciones presentes en los complejos IN-INSTI; esta etapa fue llevada a cabo con AutoDock Tools. Y finalmente, se analizaron las interacciones intramoleculares resultantes con el uso de Pymol y LigPlot, para poder determinar el inhibidor de mayor eficacia.
 
+<img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
+  <figcaption>Fig.2 - Ejemplo.</figcaption>
+</figure>
+
+
 ### MATERIALES Y MÉTODOS
 
-•	Análisis quimioinformático
+***•	Análisis quimioinformático***
 
 Existen diferentes softwares y freewares que han sido desarrollados por centros de investigación de todo el mundo y que ayudan a predecir propiedades fisicoquímicas, farmacocinéticas, estructurales, geométricas e incluso, son capaces de predecir el espectro de Resonancia Magnética Nuclear de Protón (RMN – 1H). Para este proyecto, se utilizar tres softwares especializados para determinar algunas propiedades fisicoquímicas y farmacocinéticas: Chemicalize (https://chemicalize.com/), SwissADME (http://www.swissadme.ch/index.php) y OSIRIS (descargable de https://www.organic-chemistry.org/prog/peo/).
 
@@ -107,7 +116,16 @@ Existen diferentes softwares y freewares que han sido desarrollados por centros 
    IV.	Bictegravir (BIC)
    V.	Cabotegravir (CBT)
 
-•	Acoplamiento molecular
+
+<img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
+  <figcaption>Fig.2 - Ejemplo.</figcaption>
+</figure>
+
+
+***•	Acoplamiento molecular***
 
 Para la evaluación de las interacciones intramoleculares 
 
@@ -183,7 +201,17 @@ Para la evaluación de las interacciones intramoleculares
 
 29.	Name 
 
-•	LigPlot
+
+<img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
+  <figcaption>Fig.2 - Ejemplo.</figcaption>
+</figure>
+
+
+
+***•	LigPlot***
 
 Para la evaluación de las interacciones intramoleculares resultantes del docking molecular, usamos el programa LigPlot. En este programa podemos observar los puentes de hidrógeno formados entre la proteína Integrasa y los diferentes confórmeros de los Inhibidores (INSTI).
 
@@ -209,9 +237,18 @@ Para la evaluación de las interacciones intramoleculares resultantes del dockin
 
 11.	Repetir el proceso con todos los confórmeros deseados de los Inhibidores previamente evaluados 
 
+
+<img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
+  <figcaption>Fig.2 - Ejemplo.</figcaption>
+</figure>
+
+
 ### RESULTADOS
 
-1.	Análisis quimioinformático
+***1.	Análisis quimioinformático***
 
 La evaluación Quimioinformática previa permitió evaluar las propiedades asociadas a cada uno de los INSTI mediante el uso de modelos matemáticos para poder predecir las propiedades fisicoquímicas y farmacocinéticas. Todos los INSTI cumplieron con los parámetros de la Regla de 5 de Lipinski, que establece las condicionales para que un fármaco pueda ser suministrado oralmente y cumpla con determinada función farmacológica o biológica.
 
@@ -219,12 +256,59 @@ De igual forma, la mayoría de los fármacos cumplieron con otros parámetros qu
 
 Propiedades fisicoquímicas:
 
+<img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
+  <figcaption>Fig.2 - Ejemplo.</figcaption>
+</figure>
 
 Propiedades ADMET:
 
-2.	Acoplamiento molecular
+<img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
+  <figcaption>Fig.2 - Ejemplo.</figcaption>
+</figure>
+
+
+***2.	Acoplamiento molecular***
 
 La metodología de acoplamiento molecular se validó mediante el algoritmo genético (AutoDock), proporcionando una correlación de los datos experimentales (concentración efectiva media máxima, EC50) con las afinidades de unión. Posteriormente, las pruebas de acoplamiento molecular se realizaron utilizando VINA en los cinco INSTI y estos mostraron diferencias en las energías de unión de menos de 1.5 kcal/mol. 
+
+<img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
+  <figcaption>Fig.2 - Ejemplo.</figcaption>
+</figure>
+
+
+<img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
+  <figcaption>Fig.2 - Ejemplo.</figcaption>
+</figure>
+
+
+***3. LigPlot***
+
+
+<img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
+  <figcaption>Fig.2 - Ejemplo.</figcaption>
+</figure><img src="Logo_CdeCMx.png" width=200>
+
+
+<figure>
+  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
+  <figcaption>Fig.2 - Ejemplo.</figcaption>
+</figure>
+
 
 ## DISCUSIÓN
 
@@ -262,26 +346,17 @@ Passos, D. O., Li, M., Yang, R., Rebensburg, S. V., Ghirlando, R., Jeon, Y., …
 
 
 
+
+
+
+
+
 Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
 
 El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
 
 *Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
 
-### 
-
-1.	VIH
-El VIH es un virus que ataca al sistema inmunitario del cuerpo, su etapa más avanzada es el SIDA (síndrome de inmunodeficiencia adquirida). Cuando una persona se infecta con VIH, el virus ataca y debilita el sistema inmunitario. A medida que el sistema inmunitario se debilita, la persona está en riesgo de contraer infecciones y cánceres que pueden ser mortales.  Cuando esto sucede, la enfermedad se llama sida. Una vez que una persona tiene el virus, este permanece dentro del cuerpo de por vida.
-
-VIH ≠ SIDA
-
-VIH: Daña al sistema inmunitario al destruir las células CD4. 
-
-SIDA: Es la última etapa de infección por el VIH. Al convertirse en SIDA, disminuye la cantidad de células de CD4 y existe mayor concentración del virus VIH.
-
-CÉLULA CD4:
-•	Forma parte del sistema inmunitario.
-•	Al disminuir las células de CD4 en el organismo el virus inserta su material genético en el genoma de las células y lo manipula para que las células CD4 se modifiquen y se dediquen a hacer más copias del VIH.
 
 Describe de qué trata tu proyecto:
 * ¿qué problema vas a abordar?
