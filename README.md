@@ -3,9 +3,9 @@
 ### ODS: 3 SALUD Y BIENESTAR
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vMDGAlY9ObU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/vMDGAlY9ObU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{: style="color:gray; font-size: 80%; text-align: center;"}
+
 
 ### INTRODUCCIÓN
 
@@ -109,11 +109,17 @@ Existen diferentes softwares y freewares que han sido desarrollados por centros 
 7.	En este último software, podrás visualizar una predicción de propiedades ADME relacionadas con la Regla de 5 de Lipinski y otros datos fisicoquímicos.
 
 8.	Repetir los pasos anteriores con los 5 fármacos a analizar:
+
    I.	Raltegravir (RAL)
+   
    II.	Elvitegravir (EVG)
+   
    III.	Dolutegravir (DTG)
+   
    IV.	Bictegravir (BIC)
+   
    V.	Cabotegravir (CBT)
+   
 
 
 
@@ -153,6 +159,7 @@ Para la evaluación de las interacciones intramoleculares
     4.	Bictegravir (BIC)
     
     5.	Cabotegravir (CBT)
+   
 9.	En pymol seleccionamos nuestra integrasa y (sele) → A → delete object
 
 10.	open → EVG/RAL/DTG/BIC/CBT → export molecule en pdb
@@ -178,6 +185,7 @@ Para la evaluación de las interacciones intramoleculares
 20.	Grid → grid box → file → saving close current 
 
 21.	Para el sitio activo abrimos los detalles de la Integrasa (IN) para ver los residuos y “activar” el tercer círculo de cada uno (C):
+
       a.	ASP D64
 
       b.	ASP D116
