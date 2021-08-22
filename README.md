@@ -119,12 +119,10 @@ Existen diferentes softwares y freewares que han sido desarrollados por centros 
 
 
 <figure>
-  <img class="center" src="Imagenes/Métodos-1.1.png" style="width:50%">
+  <img class="center" src="Imagenes/Métodos-1.1.png" style="width:80%">
 </figure>
 
-<figure>
-  <img class="center" src="Imagenes/Métodos-1.3.png" style="width:50%">
-</figure>
+
 
 ***•	Acoplamiento molecular***
 
@@ -204,11 +202,9 @@ Para la evaluación de las interacciones intramoleculares
 
 
 
-
 <figure>
-  <img class="center" src="Imagenes/gbmnhgfvc.png" style="width:50%">
+  <img class="center" src="Imagenes/Métodos-2.6.png" style="width:80%">
 </figure>
-
 
 
 ***•	LigPlot***
@@ -241,7 +237,7 @@ Para la evaluación de las interacciones intramoleculares resultantes del dockin
 
 
 <figure>
-  <img class="center" src="Imagenes/Metodología - D. Flujo.png" style="width:50%">
+  <img class="center" src="Imagenes/Metodología - D. Flujo.png" style="width:80%">
 </figure>
 
 
@@ -278,23 +274,23 @@ La metodología de acoplamiento molecular se validó mediante el algoritmo gené
 
 
 <figure>
-  <img class="center" src="Imagenes/Resultados-RAL-2.png" style="width:50%">
+  <img class="center" src="Imagenes/Resultados-RAL-2.png" style="width:80%">
 </figure>
 
 <figure>
-  <img class="center" src="Imagenes/Resultados-EVG-2.png" style="width:50%">
+  <img class="center" src="Imagenes/Resultados-EVG-2.png" style="width:80%">
 </figure>
 
 <figure>
-  <img class="center" src="Imagenes/Resultados-DTG-2.png" style="width:50%">
+  <img class="center" src="Imagenes/Resultados-DTG-2.png" style="width:80%">
 </figure>
 
 <figure>
-  <img class="center" src="Imagenes/Resultados-BIC-2.png" style="width:50%">
+  <img class="center" src="Imagenes/Resultados-BIC-2.png" style="width:80%">
 </figure>
 
 <figure>
-  <img class="center" src="Imagenes/Resultados-CBT-2.png" style="width:50%">
+  <img class="center" src="Imagenes/Resultados-CBT-2.png" style="width:80%">
 </figure>
 
 
@@ -304,24 +300,24 @@ La metodología de acoplamiento molecular se validó mediante el algoritmo gené
 
 
 <figure>
-  <img class="center" src="Imagenes/IN-RAL 1.jpg" style="width:50%">
+  <img class="center" src="Imagenes/IN-RAL 1.jpg" style="width:80%">
 </figure>
 
 <figure>
-  <img class="center" src="Imagenes/IN-EVG 1.jpg" style="width:50%">
+  <img class="center" src="Imagenes/IN-EVG 1.jpg" style="width:80%">
 </figure>
 
 <figure>
-  <img class="center" src="Imagenes/IN-DTG 1.jpg" style="width:50%">
+  <img class="center" src="Imagenes/IN-DTG 1.jpg" style="width:80%">
 </figure>
 
 <figure>
-  <img class="center" src="Imagenes/IN-BIC 1.jpg" style="width:50%">
+  <img class="center" src="Imagenes/IN-BIC 1.jpg" style="width:80%">
 </figure>
 
 
 <figure>
-  <img class="center" src="Imagenes/IN-CBT 1.jpg" style="width:50%">
+  <img class="center" src="Imagenes/IN-CBT 1.jpg" style="width:80%">
 </figure>
 
 
@@ -360,20 +356,28 @@ Las bases para los estudios sobre la integrasa del VIH se establecieron con estu
 ## BIBLIOGRAFÍA
 
 Craigie, R. (2012). The molecular biology of HIV integrase. Future Virology, 7(7), 679–686. doi:10.2217/fvl.12.56 
+
 Isaacs, D., Mikasi, S. G., Obasa, A. E., Ikomey, G. M., Shityakov, S., Cloete, R., & Jacobs, G. B. (2020). Structural Comparison of Diverse HIV-1 Subtypes using Molecular Modelling and Docking Analyses of Integrase Inhibitors. Viruses, 12(9), 936. doi:10.3390/v12090936 
+
 Protein Data Bank. (2016). PDB: 5U1C. Wwpdb.org. https://www.wwpdb.org/pdb?id=pdb_00005u1c
+
 Passos, D. O., Li, M., Yang, R., Rebensburg, S. V., Ghirlando, R., Jeon, Y., … Lyumkis, D. (2017). Cryo-EM structures and atomic model of the HIV-1 strand transfer complex intasome. Science, 355(6320), 89–92. doi:10.1126/science.aah5163
 
+## CONTACTO
+
+circulodelaciencia.cdecmx@gmail.com
+
+
 <figure>
-  <img class="center" src="Imagenes/2.png" style="width:50%">
+  <img class="center" src="Imagenes/2.png" style="width:80%">
 </figure>
 
 <figure>
-  <img class="center" src="Imagenes/1.png" style="width:50%">
+  <img class="center" src="Imagenes/1.png" style="width:80%">
 </figure>
 
 <figure>
-  <img class="center" src="Imagenes/3.png" style="width:50%">
+  <img class="center" src="Imagenes/3.png" style="width:80%">
 </figure>
 
 
