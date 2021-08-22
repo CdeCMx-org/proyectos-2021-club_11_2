@@ -81,11 +81,10 @@ En la actualidad, el uso de la quimioinformática, química medicinal y modelado
 
 En este estudio, se utilizaron diferentes métodos computacionales para la realización de un análisis comparativo de los INSTI y su interacción con la proteína IN. Primero, se realizó un análisis quimioinfrmático de las propiedades fisicoquímicas de los INSTI y la predicción de sus propiedades farmacocinéticas ADMET (administración, distribución, metabolismo, eliminación y toxicidad) para una evaluación previa del uso de estos fármacos en el cuerpo humano; este análisis se llevó a cabo mediante los softwares especializados Chemicailize (ChemAxon), OSIRIS y SwissADME. Después, se realizó un análisis conformacional y energético de los fármacos para le evaluación del acoplamiento molecular y de las interacciones presentes en los complejos IN-INSTI; esta etapa fue llevada a cabo con AutoDock Tools. Y finalmente, se analizaron las interacciones intramoleculares resultantes con el uso de Pymol y LigPlot, para poder determinar el inhibidor de mayor eficacia.
 
-<img src="Logo_CdeCMx.png" width=200>
+
 
 <figure>
-  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
-  <figcaption>Fig.2 - Ejemplo.</figcaption>
+  <img class="center" src="Imagenes/VIH.png" style="width:50%">
 </figure>
 
 
@@ -117,12 +116,13 @@ Existen diferentes softwares y freewares que han sido desarrollados por centros 
    V.	Cabotegravir (CBT)
 
 
-<img src="Logo_CdeCMx.png" width=200>
+
 
 <figure>
-  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
+  <img class="center" src="Imagenes/ghy.pptm  -  Autorecuperado.png" style="width:50%">
   <figcaption>Fig.2 - Ejemplo.</figcaption>
 </figure>
+
 
 
 ***•	Acoplamiento molecular***
@@ -202,11 +202,10 @@ Para la evaluación de las interacciones intramoleculares
 29.	Name 
 
 
-<img src="Logo_CdeCMx.png" width=200>
+
 
 <figure>
-  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
-  <figcaption>Fig.2 - Ejemplo.</figcaption>
+  <img class="center" src="Imagenes/gbmnhgfvc.png" style="width:50%">
 </figure>
 
 
@@ -238,12 +237,12 @@ Para la evaluación de las interacciones intramoleculares resultantes del dockin
 11.	Repetir el proceso con todos los confórmeros deseados de los Inhibidores previamente evaluados 
 
 
-<img src="Logo_CdeCMx.png" width=200>
+
 
 <figure>
-  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
-  <figcaption>Fig.2 - Ejemplo.</figcaption>
+  <img class="center" src="Imagenes/Metodología - D. Flujo.png" style="width:50%">
 </figure>
+
 
 
 ### RESULTADOS
@@ -256,20 +255,18 @@ De igual forma, la mayoría de los fármacos cumplieron con otros parámetros qu
 
 Propiedades fisicoquímicas:
 
-<img src="Logo_CdeCMx.png" width=200>
+
 
 <figure>
-  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
-  <figcaption>Fig.2 - Ejemplo.</figcaption>
+  <img class="center" src="Imagenes/ghy.pptm  -  Autorecuperado.png" style="width:50%">
 </figure>
 
 Propiedades ADMET:
 
-<img src="Logo_CdeCMx.png" width=200>
+
 
 <figure>
-  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
-  <figcaption>Fig.2 - Ejemplo.</figcaption>
+  <img class="center" src="Imagenes/ppt54FE.pptm  -  Autorecuperado.png" style="width:50%">
 </figure>
 
 
@@ -277,37 +274,56 @@ Propiedades ADMET:
 
 La metodología de acoplamiento molecular se validó mediante el algoritmo genético (AutoDock), proporcionando una correlación de los datos experimentales (concentración efectiva media máxima, EC50) con las afinidades de unión. Posteriormente, las pruebas de acoplamiento molecular se realizaron utilizando VINA en los cinco INSTI y estos mostraron diferencias en las energías de unión de menos de 1.5 kcal/mol. 
 
-<img src="Logo_CdeCMx.png" width=200>
+
 
 <figure>
-  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
-  <figcaption>Fig.2 - Ejemplo.</figcaption>
+  <img class="center" src="Imagenes/Resultados-RAL-2.png" style="width:50%">
 </figure>
-
-
-<img src="Logo_CdeCMx.png" width=200>
 
 <figure>
-  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
-  <figcaption>Fig.2 - Ejemplo.</figcaption>
+  <img class="center" src="Imagenes/Resultados-EVG-2.png" style="width:50%">
 </figure>
+
+<figure>
+  <img class="center" src="Imagenes/Resultados-DTG-2.png" style="width:50%">
+</figure>
+
+<figure>
+  <img class="center" src="Imagenes/Resultados-BIC-2.png" style="width:50%">
+</figure>
+
+<figure>
+  <img class="center" src="Imagenes/Resultados-CBT-2.png" style="width:50%">
+</figure>
+
 
 
 ***3. LigPlot***
 
 
-<img src="Logo_CdeCMx.png" width=200>
 
 <figure>
-  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
-  <figcaption>Fig.2 - Ejemplo.</figcaption>
+  <img class="center" src="Imagenes/IN-RAL-1.png" style="width:50%">
+</figure><img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Imagenes/IN-EVG-1.png" style="width:50%">
+</figure><img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Imagenes/IN-DTG-1.png" style="width:50%">
+</figure><img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Imagenes/IN-BIC-1.png" style="width:50%">
 </figure><img src="Logo_CdeCMx.png" width=200>
 
 
 <figure>
-  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
-  <figcaption>Fig.2 - Ejemplo.</figcaption>
-</figure>
+  <img class="center" src="Imagenes/IN-CBT-1.png" style="width:50%">
+</figure><img src="Logo_CdeCMx.png" width=200>
+
+
 
 
 ## DISCUSIÓN
@@ -332,6 +348,14 @@ Con esta metodología, se proponen nuevas herramientas que ayuden en la predicci
 
 Las bases para los estudios sobre la integrasa del VIH se establecieron con estudios bioquímicos de sistemas de transposición de ADN estrechamente relacionados. En ese momento, no estaba claro que esa ciencia básica contribuiría al tratamiento de una enfermedad emergente. Los primeros estudios bioquímicos de la integrasa del VIH dieron como resultado ensayos que fueron adaptados por la industria farmacéutica para la detección de alto rendimiento de los inhibidores de la integrasa. Casi dos décadas después de iniciar estos esfuerzos, se lanzó al mercado el primer fármaco antiviral que se dirige a la integrasa y el desarrollo de nuevas clases de inhibidores de integrasa es uno de los principales objetivos en el desarrollo farmacéutico. La historia destaca el valor de la investigación básica para abordar futuras enfermedades emergentes. Ahora es necesario estudiar los detalles atómicos de cómo funcionan estos medicamentos y los mecanismos de resistencia a los medicamentos. 
 
+<figure>
+  <img class="center" src="Imagenes/Vacuna mosaico.png" style="width:50%">
+</figure><img src="Logo_CdeCMx.png" width=200>
+
+<figure>
+  <img class="center" src="Imagenes/PEP Y PrEP.png" style="width:50%">
+</figure><img src="Logo_CdeCMx.png" width=200>
+
 ## BIBLIOGRAFÍA
 
 Craigie, R. (2012). The molecular biology of HIV integrase. Future Virology, 7(7), 679–686. doi:10.2217/fvl.12.56 
@@ -339,67 +363,23 @@ Isaacs, D., Mikasi, S. G., Obasa, A. E., Ikomey, G. M., Shityakov, S., Cloete, R
 Protein Data Bank. (2016). PDB: 5U1C. Wwpdb.org. https://www.wwpdb.org/pdb?id=pdb_00005u1c
 Passos, D. O., Li, M., Yang, R., Rebensburg, S. V., Ghirlando, R., Jeon, Y., … Lyumkis, D. (2017). Cryo-EM structures and atomic model of the HIV-1 strand transfer complex intasome. Science, 355(6320), 89–92. doi:10.1126/science.aah5163
 
-
-
-
-
-
-
-
-
-
-
-
-
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
-
-El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
-
-*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
-
-
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
-
-### Métodología
-
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
-
-### Resultados
-
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
-
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
-
-![](Logo_CdeCMx.png)
-### Fig. 1
-
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
+<figure>
+  <img class="center" src="Imagenes/2.png" style="width:50%">
+</figure><img src="Logo_CdeCMx.png" width=200>
 
 <figure>
-  <img class="center" src="Logo_CdeCMx.png" style="width:50%">
-  <figcaption>Fig.2 - Ejemplo.</figcaption>
-</figure>
+  <img class="center" src="Imagenes/1.png" style="width:50%">
+</figure><img src="Logo_CdeCMx.png" width=200>
 
-### Conclusiones
+<figure>
+  <img class="center" src="Imagenes/3.png" style="width:50%">
+</figure><img src="Logo_CdeCMx.png" width=200>
 
-Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
 
-### Video
- 1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
- <iframe width="560" height="315" src="https://www.youtube.com/embed/PLj1-CMNERM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
- 2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
- 4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
- 
-### Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
+
+
+
+
+
 
