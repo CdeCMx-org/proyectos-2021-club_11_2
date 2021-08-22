@@ -3,7 +3,7 @@
 ### ODS: 3 SALUD Y BIENESTAR
 
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/vMDGAlY9ObU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="784" height="441" src="https://www.youtube.com/embed/vMDGAlY9ObU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -110,15 +110,15 @@ Existen diferentes softwares y freewares que han sido desarrollados por centros 
 
 8.	Repetir los pasos anteriores con los 5 fármacos a analizar:
 
-   I.	Raltegravir (RAL)
+      I.	Raltegravir (RAL)
    
-   II.	Elvitegravir (EVG)
+      II.	Elvitegravir (EVG)
    
-   III.	Dolutegravir (DTG)
+      III.	Dolutegravir (DTG)
    
-   IV.	Bictegravir (BIC)
+      IV.	Bictegravir (BIC)
    
-   V.	Cabotegravir (CBT)
+      V.	Cabotegravir (CBT)
    
 
 
@@ -263,7 +263,7 @@ Propiedades fisicoquímicas:
 
 
 <figure>
-  <img class="center" src="Imagenes/ghy.pptm  -  Autorecuperado.png" style="width:70%">
+  <img class="center" src="Imagenes/ghy.pptm  -  Autorecuperado.png" style="width:90%">
 </figure>
 
 Propiedades ADMET:
@@ -271,7 +271,7 @@ Propiedades ADMET:
 
 
 <figure>
-  <img class="center" src="Imagenes/ppt54FE.pptm  -  Autorecuperado.png" style="width:70%">
+  <img class="center" src="Imagenes/ppt54FE.pptm  -  Autorecuperado.png" style="width:90%">
 </figure>
 
 
