@@ -119,10 +119,12 @@ Existen diferentes softwares y freewares que han sido desarrollados por centros 
 
 
 <figure>
-  <img class="center" src="Imagenes/ghy.pptm  -  Autorecuperado.png" style="width:50%">
+  <img class="center" src="Imagenes/Métodos-1.1.png" style="width:50%">
 </figure>
 
-
+<figure>
+  <img class="center" src="Imagenes/Métodos-1.3.png" style="width:50%">
+</figure>
 
 ***•	Acoplamiento molecular***
 
@@ -257,7 +259,7 @@ Propiedades fisicoquímicas:
 
 
 <figure>
-  <img class="center" src="Imagenes/ghy.pptm  -  Autorecuperado.png" style="width:50%">
+  <img class="center" src="Imagenes/ghy.pptm  -  Autorecuperado.png" style="width:70%">
 </figure>
 
 Propiedades ADMET:
@@ -265,7 +267,7 @@ Propiedades ADMET:
 
 
 <figure>
-  <img class="center" src="Imagenes/ppt54FE.pptm  -  Autorecuperado.png" style="width:50%">
+  <img class="center" src="Imagenes/ppt54FE.pptm  -  Autorecuperado.png" style="width:70%">
 </figure>
 
 
@@ -302,25 +304,25 @@ La metodología de acoplamiento molecular se validó mediante el algoritmo gené
 
 
 <figure>
-  <img class="center" src="Imagenes/IN-RAL 1.png" style="width:50%">
-</figure><img src="Logo_CdeCMx.png" width=200>
+  <img class="center" src="Imagenes/IN-RAL 1.jpg" style="width:50%">
+</figure>
 
 <figure>
-  <img class="center" src="Imagenes/IN-EVG 1.png" style="width:50%">
-</figure><img src="Logo_CdeCMx.png" width=200>
+  <img class="center" src="Imagenes/IN-EVG 1.jpg" style="width:50%">
+</figure>
 
 <figure>
-  <img class="center" src="Imagenes/IN-DTG 1.png" style="width:50%">
-</figure><img src="Logo_CdeCMx.png" width=200>
+  <img class="center" src="Imagenes/IN-DTG 1.jpg" style="width:50%">
+</figure>
 
 <figure>
-  <img class="center" src="Imagenes/IN-BIC 1.png" style="width:50%">
-</figure><img src="Logo_CdeCMx.png" width=200>
+  <img class="center" src="Imagenes/IN-BIC 1.jpg" style="width:50%">
+</figure>
 
 
 <figure>
-  <img class="center" src="Imagenes/IN-CBT 1.png" style="width:50%">
-</figure><img src="Logo_CdeCMx.png" width=200>
+  <img class="center" src="Imagenes/IN-CBT 1.jpg" style="width:50%">
+</figure>
 
 
 
@@ -349,11 +351,11 @@ Las bases para los estudios sobre la integrasa del VIH se establecieron con estu
 
 <figure>
   <img class="center" src="Imagenes/Vacuna mosaico.png" style="width:50%">
-</figure><img src="Logo_CdeCMx.png" width=200>
+</figure>
 
 <figure>
   <img class="center" src="Imagenes/PEP Y PrEP.png" style="width:50%">
-</figure><img src="Logo_CdeCMx.png" width=200>
+</figure>
 
 ## BIBLIOGRAFÍA
 
@@ -364,15 +366,15 @@ Passos, D. O., Li, M., Yang, R., Rebensburg, S. V., Ghirlando, R., Jeon, Y., …
 
 <figure>
   <img class="center" src="Imagenes/2.png" style="width:50%">
-</figure><img src="Logo_CdeCMx.png" width=200>
+</figure>
 
 <figure>
   <img class="center" src="Imagenes/1.png" style="width:50%">
-</figure><img src="Logo_CdeCMx.png" width=200>
+</figure>
 
 <figure>
   <img class="center" src="Imagenes/3.png" style="width:50%">
-</figure><img src="Logo_CdeCMx.png" width=200>
+</figure>
 
 
 
