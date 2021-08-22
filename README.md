@@ -120,7 +120,6 @@ Existen diferentes softwares y freewares que han sido desarrollados por centros 
 
 <figure>
   <img class="center" src="Imagenes/ghy.pptm  -  Autorecuperado.png" style="width:50%">
-  <figcaption>Fig.2 - Ejemplo.</figcaption>
 </figure>
 
 
@@ -303,24 +302,24 @@ La metodología de acoplamiento molecular se validó mediante el algoritmo gené
 
 
 <figure>
-  <img class="center" src="Imagenes/IN-RAL-1.png" style="width:50%">
+  <img class="center" src="Imagenes/IN-RAL 1.png" style="width:50%">
 </figure><img src="Logo_CdeCMx.png" width=200>
 
 <figure>
-  <img class="center" src="Imagenes/IN-EVG-1.png" style="width:50%">
+  <img class="center" src="Imagenes/IN-EVG 1.png" style="width:50%">
 </figure><img src="Logo_CdeCMx.png" width=200>
 
 <figure>
-  <img class="center" src="Imagenes/IN-DTG-1.png" style="width:50%">
+  <img class="center" src="Imagenes/IN-DTG 1.png" style="width:50%">
 </figure><img src="Logo_CdeCMx.png" width=200>
 
 <figure>
-  <img class="center" src="Imagenes/IN-BIC-1.png" style="width:50%">
+  <img class="center" src="Imagenes/IN-BIC 1.png" style="width:50%">
 </figure><img src="Logo_CdeCMx.png" width=200>
 
 
 <figure>
-  <img class="center" src="Imagenes/IN-CBT-1.png" style="width:50%">
+  <img class="center" src="Imagenes/IN-CBT 1.png" style="width:50%">
 </figure><img src="Logo_CdeCMx.png" width=200>
 
 
