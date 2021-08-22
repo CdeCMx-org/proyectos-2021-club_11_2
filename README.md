@@ -6,7 +6,20 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 
 *Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
 
-### Introducción
+### 
+
+1.	VIH
+El VIH es un virus que ataca al sistema inmunitario del cuerpo, su etapa más avanzada es el SIDA (síndrome de inmunodeficiencia adquirida). Cuando una persona se infecta con VIH, el virus ataca y debilita el sistema inmunitario. A medida que el sistema inmunitario se debilita, la persona está en riesgo de contraer infecciones y cánceres que pueden ser mortales.  Cuando esto sucede, la enfermedad se llama sida. Una vez que una persona tiene el virus, este permanece dentro del cuerpo de por vida.
+
+VIH ≠ SIDA
+
+VIH: Daña al sistema inmunitario al destruir las células CD4. 
+
+SIDA: Es la última etapa de infección por el VIH. Al convertirse en SIDA, disminuye la cantidad de células de CD4 y existe mayor concentración del virus VIH.
+
+CÉLULA CD4:
+•	Forma parte del sistema inmunitario.
+•	Al disminuir las células de CD4 en el organismo el virus inserta su material genético en el genoma de las células y lo manipula para que las células CD4 se modifiquen y se dediquen a hacer más copias del VIH.
 
 Describe de qué trata tu proyecto:
 * ¿qué problema vas a abordar?
